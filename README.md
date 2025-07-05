@@ -20,7 +20,7 @@ Dữ liệu mô phỏng gồm 6 bảng chính:
 ---
 
 ## 🧱 ERD - Entity Relationship Diagram
-![ERD](./assets/schema.png)
+![ERD](./assests/schema.png)
 ---
 
 ## 🧪 SQL Levels & Challenges
