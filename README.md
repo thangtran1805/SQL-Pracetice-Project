@@ -20,7 +20,7 @@ Dữ liệu mô phỏng gồm 6 bảng chính:
 ---
 
 ## 🧱 ERD - Entity Relationship Diagram
-![ERD Diagram](schema.png)
+![ERD](./assets/schema.png)
 ---
 
 ## 🧪 SQL Levels & Challenges
@@ -51,7 +51,7 @@ Dữ liệu mô phỏng gồm 6 bảng chính:
 
 ## 📎 Repo structure
 
-![Stucture Diagram](structure.png)
+![Stucture Diagram](./assests/structure.png)
 
 ---
 
