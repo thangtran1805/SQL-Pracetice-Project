@@ -50,9 +50,10 @@ Dữ liệu mô phỏng gồm 6 bảng chính:
 ---
 
 ## 📎 Repo structure
----
+
 ![Stucture Diagram](structure.png)
 
+---
 
 ## 🌟 Tác giả
 
