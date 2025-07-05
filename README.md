@@ -44,7 +44,7 @@ Dữ liệu mô phỏng gồm 6 bảng chính:
 
 ## ✅ Tech Stack
 - PostgreSQL
-- ERD: dbdiagram.io (hoặc draw.io)
+- ERD: dbdiagram.io
 - SQL queries organized per level
 
 ---
