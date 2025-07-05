@@ -52,6 +52,15 @@ Dữ liệu mô phỏng gồm 6 bảng chính:
 ## 📎 Repo structure
 ---
 
+📁 sql/
+├── level_1_basic.sql
+├── level_2_intermediate.sql
+├── level_3_advanced.sql
+📁 schema/
+├── create_tables.sql
+schema.png
+README.md
+
 ## 🌟 Tác giả
 
 **Tran Quoc Thang**  
